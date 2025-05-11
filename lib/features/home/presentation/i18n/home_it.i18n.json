@@ -1,0 +1,16 @@
+{
+    "title": "Home",
+    "welcome": "Benvenuto nella Home Page",
+    "description": "Questa è la pagina principale dell'applicazione.",
+    "button": {
+        "clickMe": "Cliccami",
+        "submit": "Invia"
+    },
+    "errorsTitle": "Esempi di gestione degli errori o delle risposte dal backend",
+    "changeError": "Cambia errore",
+    "error(map)": {
+        "network": "Non siamo riusciti a stabilire la tua connessione. Per favore riprova più tardi.",
+        "server": "Si è verificato un errore del server. Contatta il nostro team di supporto via e-mail: support@guildliving.com.",
+        "notFound": "La risorsa richiesta non è stata trovata."
+    }
+}

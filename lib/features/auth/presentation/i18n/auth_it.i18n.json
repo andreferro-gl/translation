@@ -1,0 +1,11 @@
+{
+    "appTitle": "Esempio di Login",
+    "appBarTitle": "Accesso",
+    "labelEmail": "Email",
+    "labelPassword": "Password",
+    "welcome": "Benvenuto nell’Esempio di Login!",
+    "buttonLogin": "Accedi",
+    "forgotPassword": "Password dimenticata?",
+    "recoverNow": "Recupera ora",
+    "signUp": "Registrati"
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Home",
+    "welcome": "Welcome to the Home Page",
+    "description": "This is the home page of the application.",
+    "button": {
+        "clickMe": "Click Me",
+        "submit": "Submit"
+    },
+    "errorsTitle": "Examples of handling errors or responses from the backend",
+    "changeError": "Change Error",
+    "error(map)": {
+        "network": "We were unable to establish your connection. Please try again later.",
+        "server": "A server error has occurred, please contact our support team via email: support@guildliving.com.",
+        "notFound": "The requested resource was not found."
+    }
+}

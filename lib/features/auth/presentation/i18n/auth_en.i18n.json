@@ -1,0 +1,11 @@
+{
+    "appTitle": "Login Example",
+    "appBarTitle": "Login",
+    "labelEmail": "Email",
+    "labelPassword": "Password",
+    "welcome": "Welcome to the Login Example!",
+    "buttonLogin": "Login",
+    "forgotPassword": "Forgot Password?",
+    "recoverNow": "Recover Now",
+    "signUp": "Sign Up"
+  }

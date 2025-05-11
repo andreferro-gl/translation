@@ -1,0 +1,8 @@
+{
+    "appTitle": "Internationalization App",
+    "brand": "GuildLiving",
+    "welcome": "Welcome to the Internationalization App!",
+    "description": "This is a proof of concept showcasing our integrated in-app translation system.",
+    "availableLanguages": "Available Languages:",
+    "goToAuth": "Go to Auth Page"
+}
