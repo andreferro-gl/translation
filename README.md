@@ -10,8 +10,7 @@ It aims to showcase for managing translations, switching languages at runtime.
 - 🔁 Runtime language switching
 - 📁 JSON-based translation files
 - 🔤 Support for plurals, RichText, interpolation, and enums
-- 🧼 Clean folder structure for scalability
-- ⚙️ Automatic code generation with `slang_builder`
+- ⚙️ Automatic translate generation with `slang_builder`
 
 ## 🧰 Tech Stack
 
