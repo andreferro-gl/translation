@@ -18,7 +18,7 @@ It aims to showcase for managing translations, switching languages at runtime.
 - [Slang](https://pub.dev/packages/slang)
 - [Slang Builder](https://pub.dev/packages/slang_builder)
 
-## 🚀 Getting Started + Project Structure + How to Add New Languages
+## 🚀 Getting Started + Project Structure
 
 1. **Clone the repository**
 
